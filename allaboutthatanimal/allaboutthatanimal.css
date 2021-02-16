@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#imagecontainer {
+	border: 5px solid black;
+	height: 500px;
+	width: 100%;
+	background-color: white;
+	background-size: 573.4px 500px;
+
+}
+
+body {
+	font-size: 16px;
+	font-family: 'Nunito', sans-serif;
+
+}
+
+h1,
+h2 {
+	font-weight: bolder;
+
+}
+
+#header {
+	padding-top: 2%;
+	background-image: url("https://img.freepik.com/free-vector/animals-theme-template-vector-illustration_53876-56693.jpg?size=626&ext=jpg");
+	height: 25em;
+	background-size: contain;
+	width: 100%;
+	font-weight: bolder;
+
+}
+
+.btn {
+	margin: 1rem 0;
+	border: 1px solid black;
+}
+
+#bodysect {
+	background-color: darkorange;
+	width: 100%;
+}
+
+#box {
+	height: 5em;
+	text-align-last: center;
+	font-size: 2em;
+}
+
+#imagecontainer {
+	background-size: cover;
+}
